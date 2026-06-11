@@ -27,7 +27,7 @@ public static void checkmarks(int marks) throws InvalidMarksException {
         }
         else
         {  
-          System.out.println("Correct mark !");
+          System.out.println("marks correct !");
         }
     }
 
